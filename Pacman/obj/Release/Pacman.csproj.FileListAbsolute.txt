@@ -1,0 +1,16 @@
+C:\Users\rodol\Desktop\UFRRJ\2019.2\Inteligência Artificial\pacman-master\Pacman\bin\Release\DirectShowLib-2005.dll
+C:\Users\rodol\Desktop\UFRRJ\2019.2\Inteligência Artificial\pacman-master\Pacman\bin\Release\EVRPresenter32.dll
+C:\Users\rodol\Desktop\UFRRJ\2019.2\Inteligência Artificial\pacman-master\Pacman\bin\Release\EVRPresenter64.dll
+C:\Users\rodol\Desktop\UFRRJ\2019.2\Inteligência Artificial\pacman-master\Pacman\bin\Release\Pacman.exe.config
+C:\Users\rodol\Desktop\UFRRJ\2019.2\Inteligência Artificial\pacman-master\Pacman\bin\Release\Pacman.exe
+C:\Users\rodol\Desktop\UFRRJ\2019.2\Inteligência Artificial\pacman-master\Pacman\bin\Release\Pacman.pdb
+C:\Users\rodol\Desktop\UFRRJ\2019.2\Inteligência Artificial\pacman-master\Pacman\bin\Release\WPFMediaKit.dll
+C:\Users\rodol\Desktop\UFRRJ\2019.2\Inteligência Artificial\pacman-master\Pacman\obj\Release\Pacman.csprojAssemblyReference.cache
+C:\Users\rodol\Desktop\UFRRJ\2019.2\Inteligência Artificial\pacman-master\Pacman\obj\Release\Pacman.Form1.resources
+C:\Users\rodol\Desktop\UFRRJ\2019.2\Inteligência Artificial\pacman-master\Pacman\obj\Release\Pacman.Menu.resources
+C:\Users\rodol\Desktop\UFRRJ\2019.2\Inteligência Artificial\pacman-master\Pacman\obj\Release\Pacman.Properties.Resources.resources
+C:\Users\rodol\Desktop\UFRRJ\2019.2\Inteligência Artificial\pacman-master\Pacman\obj\Release\Pacman.csproj.GenerateResource.cache
+C:\Users\rodol\Desktop\UFRRJ\2019.2\Inteligência Artificial\pacman-master\Pacman\obj\Release\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\rodol\Desktop\UFRRJ\2019.2\Inteligência Artificial\pacman-master\Pacman\obj\Release\Pacman.csproj.CopyComplete
+C:\Users\rodol\Desktop\UFRRJ\2019.2\Inteligência Artificial\pacman-master\Pacman\obj\Release\Pacman.exe
+C:\Users\rodol\Desktop\UFRRJ\2019.2\Inteligência Artificial\pacman-master\Pacman\obj\Release\Pacman.pdb
